@@ -10,6 +10,8 @@
 
 ## About Me
 
+[![@nabilahmed's Holopin board](https://holopin.io/api/user/board?user=nabilahmed)](https://holopin.io/@nabilahmed)
+
 <a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="200" alt="Nabil Ahmed Nahid's Dev Card"/></a>
 
 - 🌱 I’m currently learning ***Full Stack Development***
