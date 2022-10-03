@@ -6,13 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=C398F7&width=600&lines=Undergraduate+Student+at+Daffodil+International+University;Department+of+Computer+Science+and+Engineering"></a>
 </p>
 
-```rust
-```
 ---
 
 ## About Me
 
-<a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="250" alt="Nabil Ahmed Nahid's Dev Card"/></a>
+<a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="200" alt="Nabil Ahmed Nahid's Dev Card"/></a>
 
 - 🌱 I’m currently learning ***Full Stack Development***
 
