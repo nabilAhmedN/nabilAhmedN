@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact ***I like to play and read manga.***
 
-<a href="https://app.daily.dev/nabilAhmed"><img src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="300" alt="Nabil Ahmed Nahid's Dev Card"/></a>
+<a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="200" alt="Nabil Ahmed Nahid's Dev Card"/></a>
 
 ---
 
