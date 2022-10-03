@@ -12,14 +12,13 @@
 
 ## About Me
 
-- 🌱 I’m currently learning ***Full Stack Development***
+<a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="300" alt="Nabil Ahmed Nahid's Dev Card"/></a>
 
+- 🌱 I’m currently learning ***Full Stack Development***
 
 - 📫 How to reach me ***nabilahmednahid@gmail.com***
 
 - ⚡ Fun fact ***I like to play and read manga.***
-
-<a href="https://app.daily.dev/nabilAhmed"><img align="right" src="https://api.daily.dev/devcards/a65ce55e31394a298aeb79301d4d07d4.png?r=4gb" width="300" alt="Nabil Ahmed Nahid's Dev Card"/></a>
 
 ---
 
