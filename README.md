@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C398F7&width=600&lines=Undergraduate+Student+at+Daffodil+International+University;Department+of+Computer+Science+and+Engineering"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=C398F7&width=600&lines=I+have+completed+my+Bachelor+of+Science+(B.Sc.)+in+Computer+Science+and+Engineering+(CSE);from+Daffodil+International+University"></a>
 </p>
 
 ---
